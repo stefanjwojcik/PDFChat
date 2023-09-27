@@ -14,6 +14,8 @@ from streamlit_chat import message
 import io
 import asyncio
 
+## THIS IS A CHANGE 
+
 load_dotenv()
 api_key = os.getenv('OPENAI_API_KEY')  
 
